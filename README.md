@@ -3,7 +3,7 @@ OpenSSH Server Public-Key Cryptography config.
 
 A very brief intro:  https://www.youtube.com/watch?v=Zcptr4BlpuQ
 
-    sudo nano /etc/ssh/sshd_config
+>    sudo nano /etc/ssh/sshd_config
     
     #       $OpenBSD: sshd_config,v 1.103 2018/04/09 20:41:22 tj Exp $
 
