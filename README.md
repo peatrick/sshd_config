@@ -63,7 +63,7 @@ A very brief intro:  https://www.youtube.com/watch?v=Zcptr4BlpuQ
     StrictModes yes
     MaxAuthTries 3
     MaxSessions 3
-    AllowUsers puser
+    AllowUsers user
 
     # Expect .ssh/authorized_keys2 to be disregarded by default in future.
     #AuthorizedKeysFile     .ssh/authorized_keys .ssh/authorized_keys2
