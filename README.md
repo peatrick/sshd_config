@@ -133,7 +133,7 @@ A very brief intro:  https://www.youtube.com/watch?v=Zcptr4BlpuQ
     #VersionAddendum none
 
     # no default banner path
-    Banner /etc/issue.net
+    Banner /etc/ssh/sshd-banner
 
     # Allow client to pass locale environment variables
     AcceptEnv LANG LC_*
